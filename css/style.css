@@ -111,7 +111,7 @@
 }
 
 #home .content h1::after{
-    content: "Darkcode";
+    content: "Reimioda";
     animation: textanim 10s linear infinite;
 }
 
